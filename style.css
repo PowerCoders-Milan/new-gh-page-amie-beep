@@ -1,0 +1,39 @@
+#GoogleArts {
+    background-color: whitesmoke;
+    font-size: 25px;
+    float: left;
+
+
+ }
+
+ #navbar{
+     background-color: yellow;
+     float: right;
+     font-size: 20px;
+  }
+
+  a {
+      padding: 10px;
+      margin-right: 10px ;
+
+  }
+
+  #h1h2 {
+      background-color: rgb(4, 0, 255);
+      color:white;
+    }
+      
+      
+
+ img{ 
+    margin-left: auto;
+    display: block;
+    margin-right: auto;
+        }
+
+ .maintext {
+     text-align: center;
+     margin: 0px 30%;
+     font-size: 15pt;
+
+ }
